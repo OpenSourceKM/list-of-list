@@ -4,8 +4,20 @@
 # list-of-list  开源知识地图 之 超级列表
 OSKM 开源知识地图中涉及到的资源多种多样，本仓库将以列表的形式记录和维护这些资源，并汇合成一个超级列表。
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+  - [开源指南列表](#%E5%BC%80%E6%BA%90%E6%8C%87%E5%8D%97%E5%88%97%E8%A1%A8)
+  - [开源赛事与导师项目列表](#%E5%BC%80%E6%BA%90%E8%B5%9B%E4%BA%8B%E4%B8%8E%E5%AF%BC%E5%B8%88%E9%A1%B9%E7%9B%AE%E5%88%97%E8%A1%A8)
+  - [三方开源组织列表](#%E4%B8%89%E6%96%B9%E5%BC%80%E6%BA%90%E7%BB%84%E7%BB%87%E5%88%97%E8%A1%A8)
+  - [开源图书列表](#%E5%BC%80%E6%BA%90%E5%9B%BE%E4%B9%A6%E5%88%97%E8%A1%A8)
+  - [开源主题影视作品列表](#%E5%BC%80%E6%BA%90%E4%B8%BB%E9%A2%98%E5%BD%B1%E8%A7%86%E4%BD%9C%E5%93%81%E5%88%97%E8%A1%A8)
+  - [开源文化项目与周边列表](#%E5%BC%80%E6%BA%90%E6%96%87%E5%8C%96%E9%A1%B9%E7%9B%AE%E4%B8%8E%E5%91%A8%E8%BE%B9%E5%88%97%E8%A1%A8)
+  - [欢迎你的贡献！](#%E6%AC%A2%E8%BF%8E%E4%BD%A0%E7%9A%84%E8%B4%A1%E7%8C%AE)
+- [License](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
 ## 开源指南列表
