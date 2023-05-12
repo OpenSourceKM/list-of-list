@@ -55,7 +55,7 @@ NOTES:
 |How Open Source Ate Software<br/>拥抱开源（第2版）|Gordon Haff <br/> X-lab 开放实验室|<br/>2022-10|[豆瓣读书](https://book.douban.com/subject/36110140/)||
 |The Success of Open Source<br/>开源的成功之路|Steven Weber<br/>李维章|2004<br/>2007-6|[豆瓣读书](https://book.douban.com/subject/2153786/)||
 |Hackers and Painters: Big Ideas from the Computer Age<br/>黑客与画家|Paul Graham<br/>阮一峰|<br/>2011-4|[豆瓣读书](https://book.douban.com/subject/6021440/)||
-|Hackers: Heroes of the Computer Revolution<br/>黑客|Steven Levy<br/>赵俐 / 刁海鹏 / 田俊静|<br/>|2011-10-31|[豆瓣读书](https://book.douban.com/subject/6860890/)||
+|Hackers: Heroes of the Computer Revolution<br/>黑客|Steven Levy<br/>赵俐 / 刁海鹏 / 田俊静|<br/>2011-10-31|[豆瓣读书](https://book.douban.com/subject/6860890/)||
 |Free as in Freedom: Richard Stallman's Crusade for Free Software<br/>若为自由故|Sam Williams<br/>邓楠 / 李凡希|2015-4|[豆瓣读书](https://book.douban.com/subject/26314527/)||
 |The Open Organization: Igniting Passion and Performance<br/>开放式组织|Jim Whitehurst<br/>王洋|<br/>2016-9|[豆瓣读书](https://book.douban.com/subject/26894636/)||
 |The Hacker Ethic and the Spirit of the Information Age<br/>黑客伦理与信息时代精神|Pekka Himanen/Linus Torvalds/Manuel Castells<br/>李伦等|<br/>2002-9-1|[豆瓣读书](https://book.douban.com/subject/1071093/)||
