@@ -87,6 +87,17 @@ NOTES:
 38. 无许可开源基金会<sup>?</sup> PSF Permissionless Software Foundation - Open Source Incentivized With Tokens https://psfoundation.cash/
 
 
+## 开源许可证列表
+1. Apache 许可证 Apache-2.0
+2. Eclipse 许可证 EPL-2.0
+3. GPL 许可证 GPL-2.0, GPL-3.0-only,LGPL-2.1, LGPL-2.0-only,LGPL-3.0-only
+4. Mozilla 许可证 MPL-2.0
+5. BSD 3 许可证 BSD-3-Clause
+6. MIT 许可证 MIT
+7. CC 许可协议 CC0-1.0, CC BY, CC BY-NC, CC BY-ND, CC BY-NC-ND, CC BY-SA, CC BY-NC-SA
+
+OSI 认证的许可证清单及其SPDX标识符（如有） https://opensource.org/licenses/ 
+
 ## 开源图书列表
 | 书名<br/>翻译（如有） | 作者<br/>译者（如有）| 出版时间 | 链接（可多个） |说明|
 |----|----|----|----|----|
