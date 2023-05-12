@@ -41,46 +41,50 @@ NOTES:
 - Best Open Source Programs For Students to Participate https://www.geeksforgeeks.org/best-open-source-programs-for-students-to-participate/ 
 
 ## 三方开源组织列表  
-1. FSF 自由软件基金会 1985 http://www.fsf.org/about/ 
-2. 开放源码组织 Open Source Initiative http://www.opensource.org/
-3. Apache 基金会 1999 http://www.apache.org/foundation/
-4. Linux 基金会 2000 http://www.linuxfoundation.org/about 
+1. FSF 自由软件基金会 1985 http://www.fsf.org/about/  GNU https://www.gnu.org/ 
+2. Open Software Foundation ->  Open Group 1988 https://www.opengroup.org/ 
+3. 开放源码组织 Open Source Initiative http://www.opensource.org/
+4. Apache 基金会 1999 http://www.apache.org/foundation/
+5. Linux 基金会 2000 http://www.linuxfoundation.org/about 
     1. CNCF 基金会 2015 https://www.cncf.io/
     2. 超级账本 (Hyperledger) 2015
     3. TODO 小组  https://todogroup.org/
     4. OpenSSF 开源安全基金会 2020 https://openssf.org/
     5. TARS 基金会 2020 https://tarscloud.org/foundation/index
     6. FINOS 金融科技开源基金会 2020 (but since 2016)
-5. GNOME 基金会 2000 https://www.gnome.org/foundation/
-6. Mozilla 基金会 2003 https://www.mozilla.org/en-US/foundation/ 
-7. Eclipse 基金会 2004 https://www.eclipse.org/ 
-8. Blender 基金会 2006
-9. .NET 基金会 2014
-10. RISC-V 基金会 2015 
-11. 学院软件基金会 ASWF 2018  https://www.aswf.io/ 
-12. OpenJS 基金会 2019
-13. 开放原子基金会 2020
-14. Rust 基金会 2021
-15. 开源固件基金会 OSFF 2022 
-16. 天工开物开源基金会 2023 
-17. Cloud Foundry 基金会 
-18. OpenStack 基金会 https://www.openstack.org/foundation
-19. 软件自由管理委员会 Software Freedom Conservancy https://sfconservancy.org/
-20. Digital Freedom Foundation http://www.digitalfreedomfoundation.org/
-21. The Document Foundation http://www.documentfoundation.org/ 
-22. Drupal Association https://www.drupal.org/association
-23. Free Software Foundation Europe https://fsfe.org/about 
-24. KDE e.V. https://ev.kde.org/whatiskdeev.php 
-25. Linux Professional Institute 1999 https://www.lpi.org/ 
-26. NetBSD https://www.netbsd.org/foundation/ 
-27. OASIS Open https://www.oasis-open.org/ 
-28. Open Bioinformatics Foundation https://www.open-bio.org/wiki/Main_Page 
-29. Open Education Consortium http://www.oeconsortium.org/ 
-30. Open Source Automation Development Lab https://www.osadl.org/ (位于德国)
-31. Open Source Geospatial Foundation(OSGeo) http://www.osgeo.org/content/foundation/about.html
-32. Open Source Matters http://www.opensourcematters.org/ (Project: [Joomla](http://www.joomla.org/))
-33. Software Freedom Law Center https://www.softwarefreedom.org/
-34. Software in the Public Interest https://www.spi-inc.org/
+6. GNOME 基金会 2000 https://www.gnome.org/foundation/
+7. Mozilla 基金会 2003 https://www.mozilla.org/en-US/foundation/ 
+8. Eclipse 基金会 2004 https://www.eclipse.org/ 
+9. Blender 基金会 2006
+10. .NET 基金会 2014
+11. RISC-V 基金会 2015 
+12. 学院软件基金会 ASWF 2018  https://www.aswf.io/ 
+13. OpenJS 基金会 2019
+14. 开放原子基金会 2020
+15. Rust 基金会 2021
+16. 开源固件基金会 OSFF 2022 
+17. 天工开物开源基金会 2023 
+18. Cloud Foundry 基金会 
+19. OpenStack 基金会 https://www.openstack.org/foundation
+20. 软件自由管理委员会 Software Freedom Conservancy https://sfconservancy.org/
+21. Digital Freedom Foundation http://www.digitalfreedomfoundation.org/
+22. The Document Foundation http://www.documentfoundation.org/ 
+23. Drupal Association https://www.drupal.org/association
+24. Free Software Foundation Europe https://fsfe.org/about 
+25. KDE e.V. https://ev.kde.org/whatiskdeev.php 
+26. Linux Professional Institute 1999 https://www.lpi.org/ 
+27. NetBSD https://www.netbsd.org/foundation/ 
+28. OASIS Open https://www.oasis-open.org/ 
+29. Open Bioinformatics Foundation https://www.open-bio.org/wiki/Main_Page 
+30. Open Education Consortium http://www.oeconsortium.org/ 
+31. Open Source Automation Development Lab https://www.osadl.org/ (位于德国)
+32. Open Source Geospatial Foundation(OSGeo) http://www.osgeo.org/content/foundation/about.html
+33. Open Source Matters http://www.opensourcematters.org/ (Project: [Joomla](http://www.joomla.org/))
+34. Software Freedom Law Center https://www.softwarefreedom.org/
+35. Software in the Public Interest https://www.spi-inc.org/
+36. OWASP Foundation https://owasp.org/
+37. Python 软件基金会 PSF https://www.python.org/psf-landing/
+38. 无许可开源基金会<sup>?</sup> PSF Permissionless Software Foundation - Open Source Incentivized With Tokens https://psfoundation.cash/
 
 
 ## 开源图书列表
