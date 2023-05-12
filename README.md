@@ -41,7 +41,45 @@ NOTES:
 - Best Open Source Programs For Students to Participate https://www.geeksforgeeks.org/best-open-source-programs-for-students-to-participate/ 
 
 ## 三方开源组织列表  
-1. TODO
+1. FSF 自由软件基金会 1985 http://www.fsf.org/about/ 
+2. Apache 基金会 1999 http://www.apache.org/foundation/
+3. Linux 基金会 2000 http://www.linuxfoundation.org/about 
+    1. CNCF 基金会 2015 https://www.cncf.io/
+    2. 超级账本 (Hyperledger) 2015
+    3. TODO 小组  https://todogroup.org/
+    4. OpenSSF 开源安全基金会 2020 https://openssf.org/
+    5. TARS 基金会 2020 https://tarscloud.org/foundation/index
+4. GNOME 基金会 2000 https://www.gnome.org/foundation/
+5. Mozilla 基金会 2003 https://www.mozilla.org/en-US/foundation/ 
+6. Eclipse 基金会 2004 https://www.eclipse.org/ 
+7. Blender 基金会 2006
+8. .NET 基金会 2014
+9. RISC-V 基金会 2015 
+10. 学院软件基金会 ASWF 2018  https://www.aswf.io/ 
+11. OpenJS 基金会 2019
+12. 开放原子基金会 2020
+13. Rust 基金会 2021
+14. 开源固件基金会 OSFF 2022 
+15. 天工开物开源基金会 2023 
+16. Cloud Foundry 基金会 
+17. OpenStack 基金会 https://www.openstack.org/foundation
+18. 软件自由管理委员会 Software Freedom Conservancy https://sfconservancy.org/
+19. 开放源码组织 Open Source Initiative http://www.opensource.org/
+20. Digital Freedom Foundation http://www.digitalfreedomfoundation.org/
+21. The Document Foundation http://www.documentfoundation.org/ 
+22. Drupal Association https://www.drupal.org/association
+23. Free Software Foundation Europe https://fsfe.org/about 
+24. KDE e.V. https://ev.kde.org/whatiskdeev.php 
+25. Linux Professional Institute 1999 https://www.lpi.org/ 
+26. NetBSD https://www.netbsd.org/foundation/ 
+27. OASIS Open https://www.oasis-open.org/ 
+28. Open Bioinformatics Foundation https://www.open-bio.org/wiki/Main_Page 
+29. Open Education Consortium http://www.oeconsortium.org/ 
+30. Open Source Automation Development Lab https://www.osadl.org/ (位于德国)
+31. Open Source Geospatial Foundation(OSGeo) http://www.osgeo.org/content/foundation/about.html
+32. Open Source Matters http://www.opensourcematters.org/ (Project: [Joomla](http://www.joomla.org/))
+33. Software Freedom Law Center https://www.softwarefreedom.org/
+34. Software in the Public Interest https://www.spi-inc.org/
 
 
 ## 开源图书列表
