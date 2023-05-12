@@ -42,29 +42,30 @@ NOTES:
 
 ## 三方开源组织列表  
 1. FSF 自由软件基金会 1985 http://www.fsf.org/about/ 
-2. Apache 基金会 1999 http://www.apache.org/foundation/
-3. Linux 基金会 2000 http://www.linuxfoundation.org/about 
+2. 开放源码组织 Open Source Initiative http://www.opensource.org/
+3. Apache 基金会 1999 http://www.apache.org/foundation/
+4. Linux 基金会 2000 http://www.linuxfoundation.org/about 
     1. CNCF 基金会 2015 https://www.cncf.io/
     2. 超级账本 (Hyperledger) 2015
     3. TODO 小组  https://todogroup.org/
     4. OpenSSF 开源安全基金会 2020 https://openssf.org/
     5. TARS 基金会 2020 https://tarscloud.org/foundation/index
-4. GNOME 基金会 2000 https://www.gnome.org/foundation/
-5. Mozilla 基金会 2003 https://www.mozilla.org/en-US/foundation/ 
-6. Eclipse 基金会 2004 https://www.eclipse.org/ 
-7. Blender 基金会 2006
-8. .NET 基金会 2014
-9. RISC-V 基金会 2015 
-10. 学院软件基金会 ASWF 2018  https://www.aswf.io/ 
-11. OpenJS 基金会 2019
-12. 开放原子基金会 2020
-13. Rust 基金会 2021
-14. 开源固件基金会 OSFF 2022 
-15. 天工开物开源基金会 2023 
-16. Cloud Foundry 基金会 
-17. OpenStack 基金会 https://www.openstack.org/foundation
-18. 软件自由管理委员会 Software Freedom Conservancy https://sfconservancy.org/
-19. 开放源码组织 Open Source Initiative http://www.opensource.org/
+    6. FINOS 金融科技开源基金会 2020 (but since 2016)
+5. GNOME 基金会 2000 https://www.gnome.org/foundation/
+6. Mozilla 基金会 2003 https://www.mozilla.org/en-US/foundation/ 
+7. Eclipse 基金会 2004 https://www.eclipse.org/ 
+8. Blender 基金会 2006
+9. .NET 基金会 2014
+10. RISC-V 基金会 2015 
+11. 学院软件基金会 ASWF 2018  https://www.aswf.io/ 
+12. OpenJS 基金会 2019
+13. 开放原子基金会 2020
+14. Rust 基金会 2021
+15. 开源固件基金会 OSFF 2022 
+16. 天工开物开源基金会 2023 
+17. Cloud Foundry 基金会 
+18. OpenStack 基金会 https://www.openstack.org/foundation
+19. 软件自由管理委员会 Software Freedom Conservancy https://sfconservancy.org/
 20. Digital Freedom Foundation http://www.digitalfreedomfoundation.org/
 21. The Document Foundation http://www.documentfoundation.org/ 
 22. Drupal Association https://www.drupal.org/association
