@@ -30,11 +30,11 @@ OSKM 开源知识地图中涉及到的资源多种多样，本仓库将以列表
 
 
 ## 开源赛事与导师项目列表 
-1. Google Summber of Code/GSoC  https://summerofcode.withgoogle.com/ 
-1. Hacktoberfest https://hacktoberfest.com/ 
-1. LFN Mentorship Program https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program
-1. MLH Mellowship https://fellowship.mlh.io/
-1. Outreachy https://www.outreachy.org/
+1. Google Summber of Code/GSoC 谷歌编程之夏 https://summerofcode.withgoogle.com/ 
+1. Hacktoberfest 十月黑客节 https://hacktoberfest.com/ 
+1. LFN Mentorship Program Linux基金会网络导师计划 https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program
+1. MLH Fellowship 通过开源项目学习软件工程，远程参与12周 https://fellowship.mlh.io/
+1. Outreachy 3个月远程带薪开源与开放科学实习计划 https://www.outreachy.org/
 1. TODO 
 
 相关列表： 
