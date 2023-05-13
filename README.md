@@ -37,9 +37,9 @@ OSKM 开源知识地图中涉及到的资源多种多样，本仓库将以列表
 1. Outreachy https://www.outreachy.org/
 1. TODO 
 
-NOTES: 
-- Another list of open source programs https://github.com/tapaswenipathak/Open-Source-Programs
-- Best Open Source Programs For Students to Participate https://www.geeksforgeeks.org/best-open-source-programs-for-students-to-participate/ 
+相关列表： 
+- 开源计划列表（Soc/WoC）（自2015建立） https://github.com/tapaswenipathak/Open-Source-Programs
+- 适合学生参与的最佳开源计划 https://www.geeksforgeeks.org/best-open-source-programs-for-students-to-participate/ 
 
 ## 三方开源组织列表  
 1. FSF 自由软件基金会 1985 http://www.fsf.org/about/  GNU https://www.gnu.org/ 
@@ -67,26 +67,31 @@ NOTES:
 17. 天工开物开源基金会 2023 
 18. Cloud Foundry 基金会 
 19. OpenStack 基金会 https://www.openstack.org/foundation
-20. 软件自由管理委员会 Software Freedom Conservancy https://sfconservancy.org/
-21. Digital Freedom Foundation http://www.digitalfreedomfoundation.org/
-22. The Document Foundation http://www.documentfoundation.org/ 
-23. Drupal Association https://www.drupal.org/association
-24. Free Software Foundation Europe https://fsfe.org/about 
-25. KDE e.V. https://ev.kde.org/whatiskdeev.php 
-26. Linux Professional Institute 1999 https://www.lpi.org/ 
-27. NetBSD https://www.netbsd.org/foundation/ 
-28. OASIS Open https://www.oasis-open.org/ 
-29. Open Bioinformatics Foundation https://www.open-bio.org/wiki/Main_Page 
-30. Open Education Consortium http://www.oeconsortium.org/ 
-31. Open Source Automation Development Lab https://www.osadl.org/ (位于德国)
-32. Open Source Geospatial Foundation(OSGeo) http://www.osgeo.org/content/foundation/about.html
-33. Open Source Matters http://www.opensourcematters.org/ (Project: [Joomla](http://www.joomla.org/))
-34. Software Freedom Law Center https://www.softwarefreedom.org/
-35. Software in the Public Interest https://www.spi-inc.org/
-36. OWASP Foundation https://owasp.org/
-37. Python 软件基金会 PSF https://www.python.org/psf-landing/
-38. 无许可开源基金会<sup>?</sup> PSF Permissionless Software Foundation - Open Source Incentivized With Tokens https://psfoundation.cash/
+20. Python 软件基金会 PSF https://www.python.org/psf-landing/
 
+<details>
+<summary>点击展开更多</summary>
+21. 软件自由管理委员会 Software Freedom Conservancy https://sfconservancy.org/
+  
+22. Digital Freedom Foundation http://www.digitalfreedomfoundation.org/
+23. The Document Foundation http://www.documentfoundation.org/ 
+24. Drupal Association https://www.drupal.org/association
+25. Free Software Foundation Europe https://fsfe.org/about 
+26. KDE e.V. https://ev.kde.org/whatiskdeev.php 
+27. Linux Professional Institute 1999 https://www.lpi.org/ 
+28. NetBSD https://www.netbsd.org/foundation/ 
+29. OASIS Open https://www.oasis-open.org/ 
+30. Open Bioinformatics Foundation https://www.open-bio.org/wiki/Main_Page 
+31. Open Education Consortium http://www.oeconsortium.org/ 
+32. Open Source Automation Development Lab https://www.osadl.org/ (位于德国)
+33. Open Source Geospatial Foundation(OSGeo) http://www.osgeo.org/content/foundation/about.html
+34. Open Source Matters http://www.opensourcematters.org/ (Project: [Joomla](http://www.joomla.org/))
+35. Software Freedom Law Center https://www.softwarefreedom.org/
+36. Software in the Public Interest https://www.spi-inc.org/
+37. OWASP Foundation https://owasp.org/
+38. 无许可开源基金会<sup>?</sup> PSF Permissionless Software Foundation - Open Source Incentivized With Tokens https://psfoundation.cash/
+</details>
+  
 
 ## 开源许可证列表
 1. Apache 许可证 Apache-2.0
@@ -97,7 +102,16 @@ NOTES:
 6. MIT 许可证 MIT
 7. CC 许可协议 CC0-1.0, CC BY, CC BY-NC, CC BY-ND, CC BY-NC-ND, CC BY-SA, CC BY-NC-SA
 
-OSI 认证的许可证清单及其SPDX标识符（如有） https://opensource.org/licenses/ 
+相关列表
+- OSI 认证的许可证清单及其SPDX标识符（如有） https://opensource.org/licenses/ 
+- https://www.gnu.org/licenses/license-list.html 
+- https://opensource.org/licenses/alphabetical
+- Wikipedia 开源许可证列表 
+- https://choosealicense.com/appendix/ 
+- 开源许可证选择器 from GitHub https://choosealicense.com/ 
+- 开源许可证入门介绍
+-- http://www.runoob.com/w3cnote/open-source-license.html
+-- http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html
 
 ## 开源图书列表
 | 书名<br/>翻译（如有） | 作者<br/>译者（如有）| 出版时间 | 链接（可多个） |说明|
@@ -120,8 +134,11 @@ OSI 认证的许可证清单及其SPDX标识符（如有） https://opensource.o
 |开源文化在中国|范小青|2022-4|[豆瓣读书](https://book.douban.com/subject/36022318/)|
 |TODO<br/>|<br/>|<br/>|||
 
+相关列表：
+- 开源之书·共读书单 https://osbook.club/work/
 
-## 开源主题影视作品列表  
+
+## 开源主题影视作品/视听节目列表  
 1. TODO 
 
 ## 开源文化项目与周边列表 
