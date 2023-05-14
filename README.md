@@ -66,7 +66,7 @@ OSKM 开源知识地图中涉及到的资源多种多样，本仓库将以列表
 16. 开源固件基金会 OSFF 2022 
 17. 天工开物开源基金会 2023 
 18. Cloud Foundry 基金会 
-19. OpenStack 基金会 https://www.openstack.org/foundation
+19. OpenStack 基金会 -> 开源基础设施基金会 IOF  https://www.openstack.org/foundation https://openinfra.dev/ 
 20. Python 软件基金会 PSF https://www.python.org/psf-landing/
 
 <details>
