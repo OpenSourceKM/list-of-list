@@ -2,7 +2,7 @@
 [![GH Discussions](https://img.shields.io/badge/OSKM-Discussions-green)](https://github.com/orgs/OpenSourceKM/discussions)
 
 # list-of-list  开源知识地图 之 超级列表
-OSKM 开源知识地图中涉及到的资源多种多样，本仓库将以列表的形式记录和维护这些资源，并汇合成一个超级列表。
+[OSKM 开源知识地图](https://github.com/OpenSourceKM/oskm) 中涉及到的资源多种多样，本仓库将以列表的形式记录和维护部分资源，并汇合成一个超级列表。
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -148,6 +148,9 @@ OSKM 开源知识地图中涉及到的资源多种多样，本仓库将以列表
 ## 欢迎你的贡献！ 
 1. 创建 Issue 提出你的想法建议及方案 
 2. 在讨论确认后实现你的方案并通过 PR 提交 
+
+
+前往 [OSKM 开源知识地图](https://github.com/OpenSourceKM/oskm)
 
 
 # License
