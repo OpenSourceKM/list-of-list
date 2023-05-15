@@ -139,7 +139,13 @@
 
 
 ## 开源主题影视作品/视听节目列表  
-1. TODO 
+1. `<Triumph of the Nerds: The Rise of Accidental Empires>` | 《书呆子的胜利：意外帝国的崛起》1996 [豆瓣电影](https://movie.douban.com/subject/2993935/?from=subject-page)
+1. `<The Code>` | 《代码》 2001 [豆瓣电影](https://movie.douban.com/subject/1418357/)
+1. `<Revolution OS>` | 《操作系统革命》 2001 [豆瓣电影](https://movie.douban.com/subject/1437389/)
+  
+相关列表：
+- 程序员电影 https://www.douban.com/doulist/110532218/ 
+- IT有关电影 https://www.douban.com/doulist/441220/ 
 
 ## 开源文化项目与周边列表 
 1. TODO 
