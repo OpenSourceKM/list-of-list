@@ -137,6 +137,10 @@
 相关列表：
 - 开源之书·共读书单 https://osbook.club/work/
 
+相关课程与培训资源：
+- 针对大学生（国内）的开源教程 https://github.com/kaiyuanshe/open_source_trainning_undergraduate
+- 开源社：开源培训课程 https://kaiyuanshe.github.io/oss-book/ 
+
 
 ## 开源主题影视作品/视听节目列表  
 1. `<Triumph of the Nerds: The Rise of Accidental Empires>` | 《书呆子的胜利：意外帝国的崛起》1996 [豆瓣电影](https://movie.douban.com/subject/2993935/?from=subject-page)
@@ -147,7 +151,7 @@
 - 程序员电影 https://www.douban.com/doulist/110532218/ 
 - IT有关电影 https://www.douban.com/doulist/441220/ 
 
-## 开源文化项目与周边列表 
+## 开源文化与艺术项目及周边列表 
 1. Faces of Open Source https://www.facesofopensource.com/ 
 2. AOS - Art is open source https://www.artisopensource.net/
 3. opensource-art https://vsoch.github.io/opensource-art/ 
