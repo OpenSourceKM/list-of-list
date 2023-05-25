@@ -148,7 +148,9 @@
 - IT有关电影 https://www.douban.com/doulist/441220/ 
 
 ## 开源文化项目与周边列表 
-1. TODO 
+1. Faces of Open Source https://www.facesofopensource.com/ 
+2. AOS - Art is open source https://www.artisopensource.net/
+3. opensource-art https://vsoch.github.io/opensource-art/ 
 
 
 ## 欢迎你的贡献！ 
