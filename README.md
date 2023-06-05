@@ -156,6 +156,7 @@
 2. AOS - Art is open source https://www.artisopensource.net/
 3. opensource-art https://vsoch.github.io/opensource-art/ 
 4. OpenUK: What is Open Source Software Curation animation? https://www.youtube.com/watch?v=CoR-P0zfFzw
+5. 开源中国：GOTC-开源长廊（开源起源，国内开源发展，国际开源趋势）https://gitee.com/oschina/gotc-open-source-gallery/
 
 
 ## 欢迎你的贡献！ 
