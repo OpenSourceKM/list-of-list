@@ -129,7 +129,7 @@
 |The Open Organization: Igniting Passion and Performance<br/>开放式组织|Jim Whitehurst<br/>王洋|<br/>2016-9|[豆瓣读书](https://book.douban.com/subject/26894636/)||
 |The Hacker Ethic and the Spirit of the Information Age<br/>黑客伦理与信息时代精神|Pekka Himanen/Linus Torvalds/Manuel Castells<br/>李伦等|<br/>2002-9-1|[豆瓣读书](https://book.douban.com/subject/1071093/)||
 |Just for Fun: The Story of an Accidental Revolutionary<br/>只是为了好玩|Linus Torvalds / David Diamond<br/>陈少芸|<br/>2014-7|[豆瓣读书](https://book.douban.com/subject/25930025/)||
-|Open (Source) for Business: A Practical Guide to Open Source Software<br/>商业开源：开源软件许可实用指南|Heather Meeker<br/>刘伟|<br/>2023-5|||
+|Open (Source) for Business: A Practical Guide to Open Source Software<br/>商业开源：开源软件许可实用指南|Heather Meeker<br/>刘伟|2020-3<br/>2023-5|||
 |开源之迷|适兕|2022-2-10|[豆瓣读书](https://book.douban.com/subject/35716759/)||
 |开源文化在中国|范小青|2022-4|[豆瓣读书](https://book.douban.com/subject/36022318/)|
 |TODO<br/>|<br/>|<br/>|||
