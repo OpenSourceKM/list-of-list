@@ -151,10 +151,11 @@
 - 程序员电影 https://www.douban.com/doulist/110532218/ 
 - IT有关电影 https://www.douban.com/doulist/441220/ 
 
-## 开源文化与艺术项目及周边列表 
+## 开源文化、科普与艺术项目及周边列表 
 1. Faces of Open Source https://www.facesofopensource.com/ 
 2. AOS - Art is open source https://www.artisopensource.net/
 3. opensource-art https://vsoch.github.io/opensource-art/ 
+4. OpenUK: What is Open Source Software Curation animation? https://www.youtube.com/watch?v=CoR-P0zfFzw
 
 
 ## 欢迎你的贡献！ 
