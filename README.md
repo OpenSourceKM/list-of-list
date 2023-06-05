@@ -140,6 +140,7 @@
 相关课程与培训资源：
 - 针对大学生（国内）的开源教程 https://github.com/kaiyuanshe/open_source_trainning_undergraduate
 - 开源社：开源培训课程 https://kaiyuanshe.github.io/oss-book/ 
+- 开放原子校源行课程体系(源文化，源规律、源战略、源技能，源教育) [Gitee仓库](https://gitee.com/openatom-university/osstheory-fundamental/tree/master/%E5%BC%80%E6%94%BE%E5%8E%9F%E5%AD%90%E6%A0%A1%E6%BA%90%E8%A1%8C%E8%AF%BE%E7%A8%8B%E4%BD%93%E7%B3%BB)
 
 
 ## 开源主题影视作品/视听节目列表  
