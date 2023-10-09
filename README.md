@@ -53,6 +53,7 @@
     4. OpenSSF 开源安全基金会 2020 https://openssf.org/
     5. TARS 基金会 2020 https://tarscloud.org/foundation/index
     6. FINOS 金融科技开源基金会 2020 (but since 2016)
+    7. OpenJS 基金会 2019
 6. GNOME 基金会 2000 https://www.gnome.org/foundation/
 7. Mozilla 基金会 2003 https://www.mozilla.org/en-US/foundation/ 
 8. Eclipse 基金会 2004 https://www.eclipse.org/ 
@@ -60,7 +61,6 @@
 10. .NET 基金会 2014
 11. RISC-V 基金会 2015 
 12. 学院软件基金会 ASWF 2018  https://www.aswf.io/ 
-13. OpenJS 基金会 2019
 14. 开放原子基金会 2020
 15. Rust 基金会 2021
 16. 开源固件基金会 OSFF 2022 
